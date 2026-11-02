@@ -70,6 +70,7 @@ This is an educational awareness tool. It checks only six visible text clues. It
 Use only the sample strings provided in the workbook. Do not collect credentials, send phishing messages, or test websites without permission. Never put passwords, API keys, or private information in this repository.
 
 ## Author
-[Replace with your name]  
-[Replace with your batch/course]  
-EWB Cybersecurity Internship
+Author: Haritha CK
+Course: B.Tech Computer Science and Business Systems
+Internship: EWB EDU TECH PRIVATE LIMITED
+Project: Phishing URL Awareness Checker
